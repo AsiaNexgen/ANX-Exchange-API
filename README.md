@@ -1,8 +1,3 @@
-FORMAT: 1A
-HOST: https://anxpro.com/api/2/
-MOCK: http://www.google.com
-
-
 # ANX Exchange API v2
 
 ![ANXBTC](https://anxpro.com/static/themes/_ANXPRO_COM/images/logo.png) 
